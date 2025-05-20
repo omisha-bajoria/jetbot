@@ -1,0 +1,5 @@
+# Ignore large model and dataset files
+*.pth
+*.zip
+*.tar.gz
+*.engine
